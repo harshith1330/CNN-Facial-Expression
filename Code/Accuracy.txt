@@ -1,0 +1,8 @@
+A Lightweight Convolutional Neural Network for Real-Time Facial Expression Detection
+
+Algorithm/ Model used: CNN Model Architecture
+
+
+Accuracy score:  0.986
+
+
